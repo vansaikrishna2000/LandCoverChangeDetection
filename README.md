@@ -3,4 +3,4 @@ Implemented Various Supervised and Unsupervised Methods of Change Detection in S
 
 Datset: LevirCD 
 It is a new large-scale remote sensing binary change detection dataset.
-The link is : https://justchenhao.github.io/LEVIR/
+The link fot the dataset is given below : https://justchenhao.github.io/LEVIR/
